@@ -1,0 +1,84 @@
+.row {
+  width: 100%;
+  overflow: hidden;
+  clear: both;
+}
+.show-grid .row>div {
+  background: orange;
+  float: left;
+  clear: all;
+  box-sizing: border-box;
+  border: 1px solid black;
+  text-align: right;
+}
+.col-12 {
+  width: 100%;
+}
+.col-11 {
+  width: 91.6666666%;
+}
+.col-10 {
+  width: 83.333333%;
+}
+.col-9 {
+  width: 75%;
+}
+.col-8 {
+  width: 66.666666%;
+}
+.col-7 {
+  width: 58.3333333%;
+}
+.col-6 {
+  width: 50%;
+}
+.col-5 {
+  width: 41.6666666%;
+}
+.col-4 {
+  width: 33.3333333%;
+}
+.col-3 {
+  width: 25%;
+}
+.col-2 {
+  width: 16.666666%;
+}
+.col-1 {
+  width: 8.3333333%;
+}
+
+
+.offset-11 {
+  margin-left: 91.6666666%;
+}
+.offset-10 {
+  margin-left: 83.333333%;
+}
+.offset-9 {
+  margin-left: 75%;
+}
+.offset-8 {
+  margin-left: 66.666666%;
+}
+.offset-7 {
+  margin-left: 58.3333333%;
+}
+.offset-6 {
+  margin-left: 50%;
+}
+.offset-5 {
+  margin-left: 41.6666666%;
+}
+.offset-4 {
+  margin-left: 33.3333333%;
+}
+.offset-3 {
+  margin-left: 25%;
+}
+.offset-2 {
+  margin-left: 16.666666%;
+}
+.offset-1 {
+  margin-left: 8.3333333%;
+}
